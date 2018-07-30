@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataLCDNumbers", "KataLCDNumbers\KataLCDNumbers.csproj", "{D2DFC682-C9BD-493B-9596-0C5485CB6672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2DFC682-C9BD-493B-9596-0C5485CB6672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2DFC682-C9BD-493B-9596-0C5485CB6672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2DFC682-C9BD-493B-9596-0C5485CB6672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2DFC682-C9BD-493B-9596-0C5485CB6672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DF36708-0C27-4C14-A5DE-0D0AD7DEB911}
+	EndGlobalSection
+EndGlobal
